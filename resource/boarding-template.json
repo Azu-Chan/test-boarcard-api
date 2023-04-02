@@ -1,0 +1,9 @@
+{
+    "transport": ["train", "bus", "plane"],
+    "transport-number": ["number", null],
+    "from": "location",
+    "to": "location",
+    "seat": ["number", null],
+    "gate": ["number", null],
+    "bagage-management": ["location", "automatic", null]
+}
